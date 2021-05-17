@@ -1,1 +1,1 @@
-# Sathi-CSUEB
+# Sathi
